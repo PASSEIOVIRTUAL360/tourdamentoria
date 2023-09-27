@@ -1,0 +1,205 @@
+#: locale=pt
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_6FD7F302_726C_B3C3_41CB_84843429A196.text = CLIQUE AQUI PRA ASSISTIR 
+
+## Media
+
+### Audio
+audiores_46C26879_72AC_7E40_41D1_495852158B27.mp3Url = media/audio_460B9791_72BD_D2C1_41CD_4841DCC1D317_pt.mp3
+
+### Image
+imlevel_51229FF6_7275_D240_41CB_B37427A225F1.url = media/panorama_7D67B49E_71EF_B6C0_41D8_05215CEAEDF5_HS_b7gkq67y_pt.png
+
+### Title
+panorama_7D67B49E_71EF_B6C0_41D8_05215CEAEDF5.label = 01
+panorama_7DC67B95_71EF_D2C0_41D1_3DAC8E74D831.label = 02
+video_4792B577_72AC_7641_41D9_61AE724F7B38.label = CAT
+video_6EE3840F_7274_55C0_41D9_66050150B736.label = CRISTIANE - FORTALEZA
+
+### Video
+videolevel_CD70F26E_D850_4169_41E1_B7CB5D47B35E.posterURL = media/video_4792B577_72AC_7641_41D9_61AE724F7B38_poster_pt.jpg
+videolevel_CD70F26E_D850_4169_41E1_B7CB5D47B35E.url = media/video_4792B577_72AC_7641_41D9_61AE724F7B38_pt.mp4
+videolevel_CD75A21B_D850_40AF_41E3_9ABC67DFF71B.posterURL = media/video_6EE3840F_7274_55C0_41D9_66050150B736_poster_pt.jpg
+videolevel_CD75A21B_D850_40AF_41E3_9ABC67DFF71B.url = media/video_6EE3840F_7274_55C0_41D9_66050150B736_pt.mp4
+
+### Video Subtitles
+
+## Skin
+
+### Button
+Button_5F809420_72AC_B5FF_41D2_59CF6F9BC52B.label = AMENITIES >
+Button_56601888_7254_BECF_41C0_4F0AE016AD10.label = AMENITIES >
+Button_5666988D_7254_BEC1_41D3_FFF256EB1CFA.label = BACK
+Button_5667388D_7254_BEC1_41B8_7DB912CF05AD.label = BACK
+Button_5660788C_7254_BEC7_41C2_ADF499FA499B.label = BACK
+Button_5667D88C_7254_BEC7_41DB_4F3700951053.label = BACK
+Button_5660C88B_7254_BEC1_41C5_39DD9DCDAC4C.label = BACK
+Button_5F9F9423_72AC_B5C1_41C9_7D65E6B5AD22.label = BACK
+Button_5F9FC423_72AC_B5C1_41C0_0CB3CBC45CE1.label = BACK
+Button_5F808422_72AC_B5C3_4160_A8C7ECDDD278.label = BACK
+Button_5660288A_7254_BEC3_4163_B44EAA7ECD4C.label = BACK
+Button_5F80F421_72AC_B5C1_41C7_E0D67555BD8E.label = BACK
+Button_5F9F7424_72AC_B5C7_41D9_E7489F635195.label = BACK
+Button_5F9EC424_72AC_B5C7_41D1_0D2C86D2AB3B.label = BACK
+Button_5F81F421_72AC_B5C1_41C0_F0CDDD93F563.label = Bar
+Button_5661388A_7254_BEC3_41BA_3F45BD6C3243.label = Bar
+Button_5F812421_72AC_B5C1_41D8_988072A7C3EB.label = Chill Out
+Button_5661488B_7254_BEC1_41D3_3CF859A74F5C.label = Chill Out
+Button_5660C887_7254_BEC1_41DB_97A5A1572C88.label = ENTRADA 
+Button_5660988B_7254_BEC1_41C5_25CE50747862.label = Garden
+Button_5F815422_72AC_B5C3_41CF_D5361B502E4B.label = Garden
+Button_5F809420_72AC_B5FF_41D2_59CF6F9BC52B.pressedLabel = Inserdt Text
+Button_56601888_7254_BECF_41C0_4F0AE016AD10.pressedLabel = Inserdt Text
+Button_5660788A_7254_BEC3_41AB_9BEA30BF8EE1.label = Lobby
+Button_5F803421_72AC_B5C1_41C1_F8F0CBB49FBD.label = Lobby
+Button_5F803422_72AC_B5C3_41D8_FF69A897384B.label = Lorem Ipsum
+Button_5F80F422_72AC_B5C3_41CA_58EFE5296685.label = Lorem Ipsum
+Button_5F805422_72AC_B5C3_41BE_CAE1BEF24C43.label = Lorem Ipsum
+Button_5F807422_72AC_B5C3_41D5_73A59BFAE0E5.label = Lorem Ipsum
+Button_5F9F9422_72AC_B5C3_41D8_87952D7BE34E.label = Lorem Ipsum
+Button_5F9FA423_72AC_B5C1_41CB_506D62AA9073.label = Lorem Ipsum
+Button_5F80F422_72AC_B5C3_41CA_58EFE5296685.pressedLabel = Lorem Ipsum
+Button_5F9F0423_72AC_B5C1_41C5_7041F94B1CEF.label = Lorem Ipsum
+Button_5F9F3423_72AC_B5C1_41C6_272E74E84C47.label = Lorem Ipsum
+Button_5F9F6423_72AC_B5C1_41D9_93DCF9D7D4FF.label = Lorem Ipsum
+Button_5F9F6423_72AC_B5C1_41D9_93DCF9D7D4FF.pressedLabel = Lorem Ipsum
+Button_5F9F7423_72AC_B5C1_41C2_A1684F39D9AF.label = Lorem Ipsum
+Button_5F9E8423_72AC_B5C1_41D9_907C8014AB47.label = Lorem Ipsum
+Button_5666B88D_7254_BEC1_41D1_24AF4936158A.label = Lorem Ipsum
+Button_5F9EB423_72AC_B5C1_41D8_67BAF13F20B8.label = Lorem Ipsum
+Button_5F9ED423_72AC_B5C1_41D0_344606118725.label = Lorem Ipsum
+Button_5F805423_72AC_B5C1_41D5_78919D5BA579.label = Lorem Ipsum
+Button_5F806423_72AC_B5C1_41C2_AAEBA34A2E54.label = Lorem Ipsum
+Button_5666488E_7254_BEC3_41DA_978F7A00D59C.label = Lorem Ipsum
+Button_5F9FD423_72AC_B5C1_41CD_61565F38E246.label = Lorem Ipsum
+Button_5F9FE423_72AC_B5C1_4179_DA7BF79CDB91.label = Lorem Ipsum
+Button_5F9F1423_72AC_B5C1_41CE_D9099A00C7E1.label = Lorem Ipsum
+Button_5F9F1423_72AC_B5C1_41CE_D9099A00C7E1.pressedLabel = Lorem Ipsum
+Button_5F9F3423_72AC_B5C1_41DA_496FE89DBA94.label = Lorem Ipsum
+Button_5F9F4423_72AC_B5C1_41D9_E98CE8A1EE88.label = Lorem Ipsum
+Button_5666688D_7254_BEC1_41DB_0B887E7ADD05.label = Lorem Ipsum
+Button_5F9F6423_72AC_B5C1_41C3_126B8A218638.label = Lorem Ipsum
+Button_5F9E8423_72AC_B5C1_41D9_A5D65BC2D6F0.label = Lorem Ipsum
+Button_5F9E9423_72AC_B5C1_41DB_A64904BF0A87.label = Lorem Ipsum
+Button_5F9EA424_72AC_B5C7_41D6_85F14E48F22F.label = Lorem Ipsum
+Button_5666388E_7254_BEC3_41CF_41D0E540E2D3.label = Lorem Ipsum
+Button_5F9E1424_72AC_B5C7_41CF_3D5D29058B16.label = Lorem Ipsum
+Button_5F9E2424_72AC_B5C7_41BF_A90179730AF7.label = Lorem Ipsum
+Button_5F9E4424_72AC_B5C7_41C9_8C6FE8803573.label = Lorem Ipsum
+Button_5F9E4424_72AC_B5C7_41C9_8C6FE8803573.pressedLabel = Lorem Ipsum
+Button_5F9E5424_72AC_B5C7_41CE_D34F2E58B8C4.label = Lorem Ipsum
+Button_5F9E6424_72AC_B5C7_41C9_264F11C2877B.label = Lorem Ipsum
+Button_5660288B_7254_BEC1_41D3_542CFB1AF114.label = Lorem Ipsum
+Button_5F9D9424_72AC_B5C7_4153_FC46EEA61248.label = Lorem Ipsum
+Button_5F9DA424_72AC_B5C7_41CC_67CA8A455D57.label = Lorem Ipsum
+Button_5F9DB424_72AC_B5C7_4180_39AFC3B31FAF.label = Lorem Ipsum
+Button_5F9DC424_72AC_B5C7_41D7_D6BD9EF88B6E.label = Lorem Ipsum
+Button_5660388B_7254_BEC1_41D5_86983E400754.label = Lorem Ipsum
+Button_5F9EC424_72AC_B5C7_41D1_ED638EE827B9.label = Lorem Ipsum
+Button_5F9EF424_72AC_B5C7_41C5_9F56F2F30441.label = Lorem Ipsum
+Button_5F9E0424_72AC_B5C7_41A7_89EFBAFE5F06.label = Lorem Ipsum
+Button_5F9E0424_72AC_B5C7_41A7_89EFBAFE5F06.pressedLabel = Lorem Ipsum
+Button_5F9E2424_72AC_B5C7_41C6_4E60FECCADCB.label = Lorem Ipsum
+Button_5F9E3424_72AC_B5C7_41D2_0B5C60BC1C04.label = Lorem Ipsum
+Button_5667988B_7254_BEC1_41AA_722B6C403DFE.label = Lorem Ipsum
+Button_5F9E5424_72AC_B5C7_4194_522CEADD1A33.label = Lorem Ipsum
+Button_5F9E6424_72AC_B5C7_41D7_46FC55E47F45.label = Lorem Ipsum
+Button_5F9D8424_72AC_B5C7_41A6_8D5775873A1B.label = Lorem Ipsum
+Button_5F9DA424_72AC_B5C0_417A_41B96BB4460B.label = Lorem Ipsum
+Button_5666288E_7254_BEC3_41D2_DA11A8B33352.label = Lorem Ipsum
+Button_5666188E_7254_BEC3_41D7_F6A11758C81B.label = Lorem Ipsum
+Button_5666488D_7254_BEC1_41C8_0B798AB2A2B7.label = Lorem Ipsum
+Button_5666288D_7254_BEC1_41D9_0187301F6210.label = Lorem Ipsum
+Button_5666F88D_7254_BEC1_41D9_9180A07895E5.label = Lorem Ipsum
+Button_5666D88D_7254_BEC1_41DC_08284518BFEE.label = Lorem Ipsum
+Button_5666C88D_7254_BEC1_41CE_DD54558B9731.pressedLabel = Lorem Ipsum
+Button_5666C88D_7254_BEC1_41CE_DD54558B9731.label = Lorem Ipsum
+Button_5667588C_7254_BEC7_41DB_17F78A564438.label = Lorem Ipsum
+Button_5F816422_72AC_B5C3_41CF_C75CE2A59EA2.label = Lorem Ipsum
+Button_5667588C_7254_BEC7_41DB_17F78A564438.pressedLabel = Lorem Ipsum
+Button_5666988D_7254_BEC1_41DA_8EF152B3DAD0.label = Lorem Ipsum
+Button_5F801422_72AC_B5C3_41AB_FAA18D877227.label = Lorem Ipsum
+Button_5666788D_7254_BEC1_41B4_0EE6CA101A88.label = Lorem Ipsum
+Button_5666888C_7254_BEC7_41C9_32B66CD02335.label = Lorem Ipsum
+Button_5667688C_7254_BEC7_41CE_6D17EB2A64D3.label = Lorem Ipsum
+Button_5666E88D_7254_BEC1_41D5_CCBD882D562C.label = Lorem Ipsum
+Button_5F80E422_72AC_B5C3_41C4_28E117530C8D.label = Lorem Ipsum
+Button_5660A88B_7254_BEC1_41B8_B6DD19E22418.label = Lorem Ipsum
+Button_5666588D_7254_BEC1_41DC_886DCFF22ED0.label = Lorem Ipsum
+Button_5660F88B_7254_BEC1_41D6_0050763C3712.label = Lorem Ipsum
+Button_5660088B_7254_BEC1_41B2_7BBA08E2AC49.label = Lorem Ipsum
+Button_5666A88C_7254_BEC7_41C0_BF4333E70DCF.label = Lorem Ipsum
+Button_5660288B_7254_BEC1_41D3_542CFB1AF114.pressedLabel = Lorem Ipsum
+Button_5666188D_7254_BEC1_41D9_73F3D8C646FE.label = Lorem Ipsum
+Button_5660488B_7254_BEC1_4196_E998111B86D0.label = Lorem Ipsum
+Button_5660488C_7254_BEC7_41DA_A21EEC9DFFE5.label = Lorem Ipsum
+Button_5667888B_7254_BEC1_41CE_D5524A588F91.label = Lorem Ipsum
+Button_5660588C_7254_BEC7_41C9_8A52876DFEF0.label = Lorem Ipsum
+Button_5667A88B_7254_BEC1_41BE_0050E1453887.label = Lorem Ipsum
+Button_5667B88B_7254_BEC1_41C8_606317F2EBDE.label = Lorem Ipsum
+Button_5667A88C_7254_BEC7_41D3_925DAD7FBFCF.label = Lorem Ipsum
+Button_5667188C_7254_BEC7_41CB_0D4D46A7BF08.label = Lorem Ipsum
+Button_5667388C_7254_BEC7_41B4_6BD88F38D89E.label = Lorem Ipsum
+Button_5666F88D_7254_BEC1_41D8_A13AD1C4F1FE.pressedLabel = Lorem Ipsum
+Button_5667D88C_7254_BEC7_41D4_D1D799276CA4.label = Lorem Ipsum
+Button_5667B88C_7254_BEC7_41D3_0DABDC7A52D4.label = Lorem Ipsum
+Button_5666D88D_7254_BEC1_41CB_D19608E52A9F.label = Lorem Ipsum
+Button_5666F88D_7254_BEC1_41D8_A13AD1C4F1FE.label = Lorem Ipsum
+Button_5667D88C_7254_BEC7_41D4_D1D799276CA4.pressedLabel = Lorem Ipsum
+Button_5666C88C_7254_BEC7_41D3_6DDC8F16A079.label = Lorem Ipsum
+Button_5667F88C_7254_BEC7_41D8_8887C118F7B8.label = Lorem Ipsum
+Button_5667588C_7254_BEC7_41DB_41725213AEF0.label = Lorem Ipsum
+Button_5667488C_7254_BEC7_41D6_AEFBD3D679BD.label = Lorem Ipsum
+Button_5667788D_7254_BEC1_41BE_94F22F3D4781.label = Lorem Ipsum
+Button_5F80C422_72AC_B5C3_41C0_E2E3DF80B249.label = Lorem Ipsum
+Button_5667088C_7254_BEC7_41BA_E864E6A2620F.label = Lorem Ipsum
+Button_5667288C_7254_BEC7_41CE_7EB6F37733B4.label = Lorem Ipsum
+Button_5666088E_7254_BEC3_4196_A45BC1B1CB08.label = Lorem ipsum
+Button_5666388D_7254_BEC1_4198_0AB2A36A9311.label = Lorem ipsum
+Button_5667188C_7254_BEC7_41DA_09244D3D4A6F.label = Lorem ipsum
+Button_5F804422_72AC_B5C3_41A2_C7EBB91444E3.label = Lorem ipsum
+Button_5F9E7424_72AC_B5C7_41D3_D767B89E4019.label = Lorem ipsum
+Button_5F9E4424_72AC_B5C7_41AE_0701F5DDB22C.label = Lorem ipsum
+Button_5660688B_7254_BEC1_41D8_2BA8A8AC78B7.label = Lorem ipsum
+Button_5F9F5423_72AC_B5C1_41C2_11C7F03F6B93.label = Lorem ipsum
+Button_5F9EA423_72AC_B5C1_41C7_BFA4ACBBF071.label = Lorem ipsum
+Button_5666988C_7254_BEC7_41C0_346CB5A6A56E.label = Lorem ipsum
+Button_5F802421_72AC_B5C1_41D3_FE2CAA40B723.label = Main Entrance
+Button_5660688A_7254_BEC3_41CB_99FD8DD7D659.label = Main Entrance
+Button_5F806421_72AC_B5C1_41C4_5532DD8AE3C7.label = Meeting Area 1
+Button_5667A88A_7254_BEC3_41D9_2A38F755BA42.label = Meeting Area 1
+Button_5667B88A_7254_BEC3_4172_5571B9F477E9.label = Meeting Area 2
+Button_5F807421_72AC_B5C1_41B0_0B28674B93AD.label = Meeting Area 2
+Button_5F814420_72AC_B5FF_41D8_3B89C2AEB83E.label = RECEPTION >
+Button_5F800420_72AC_B5FF_41D8_B52BE2537AFE.label = RESTAURANTS >
+Button_56607888_7254_BECF_41D3_E21003C06972.label = RESTAURANTS >
+Button_5F816420_72AC_B5FF_41C6_E75D651D2247.label = ROOMS >
+Button_5660F887_7254_BEC1_41A7_C720393E92E8.label = ROOMS >
+Button_5667888A_7254_BEC3_419F_9F0E48F17E41.pressedLabel = Reception
+Button_5667888A_7254_BEC3_419F_9F0E48F17E41.label = Reception
+Button_5F805421_72AC_B5C1_41C3_4F90D3A20892.label = Reception
+Button_5F805421_72AC_B5C1_41C3_4F90D3A20892.pressedLabel = Reception
+Button_56603888_7254_BECF_41DA_B2D86FB06DBA.label = SPORTS AREA >
+Button_5F80B420_72AC_B5FF_41D7_65BFEB30466A.label = SPORTS AREA >
+Button_5F80E420_72AC_B5FF_41D5_A00804FCA2B9.label = SWIMMING POOL >
+Button_56605888_7254_BECF_41B0_4C1BE6AA33F9.label = SWIMMING POOL >
+Button_5661688B_7254_BEC1_41CF_3BC93BCF4B0C.label = Terrace
+Button_5F814421_72AC_B5C1_41D4_EA1CE3FED476.label = Terrace
+
+### Image
+Image_56608886_7254_BEC3_41AA_C51BFE84E33C.url = skin/Image_56608886_7254_BEC3_41AA_C51BFE84E33C_pt.png
+Image_5F810420_72AC_B5FF_41D8_CCDA82FD9648.url = skin/Image_5F810420_72AC_B5FF_41D8_CCDA82FD9648_pt.jpg
+
+### Multiline Text
+HTMLText_5F805421_72AC_B5C1_41D0_755286227D6F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+HTMLText_5667C889_7254_BEC1_41D2_3DE8E69D14EE.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Sem Título 34
